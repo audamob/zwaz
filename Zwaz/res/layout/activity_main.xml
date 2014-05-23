@@ -1,0 +1,298 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.audamob.zwaz.view.activity.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <!-- First Line -->
+
+    <FrameLayout
+        android:id="@+id/A1"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/A2"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="50dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/A3"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="100dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/A4"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="150dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/A5"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="200dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/A6"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="250dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <!-- Second Line -->
+
+    <FrameLayout
+        android:id="@+id/B1"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginTop="50dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/B2"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="50dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/B3"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="100dip"
+        android:layout_marginTop="50dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/B4"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="150dip"
+        android:layout_marginTop="50dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/B5"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="200dip"
+        android:layout_marginTop="50dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/B6"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="250dip"
+        android:layout_marginTop="50dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <!-- Line 3 -->
+
+    <FrameLayout
+        android:id="@+id/C1"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginTop="100dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/C2"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="100dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/C3"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="100dip"
+        android:layout_marginTop="100dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/C4"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="150dip"
+        android:layout_marginTop="100dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/C5"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="200dip"
+        android:layout_marginTop="100dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/C6"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="250dip"
+        android:layout_marginTop="100dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <!-- Line 4 -->
+     <!-- Second Line -->
+
+    <FrameLayout
+        android:id="@+id/D1"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginTop="150dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/D2"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="150dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/D3"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="100dip"
+        android:layout_marginTop="150dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/D4"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="150dip"
+        android:layout_marginTop="150dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/D5"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="200dip"
+        android:layout_marginTop="150dip"
+        android:background="#FF8000" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/D6"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="250dip"
+        android:layout_marginTop="150dip"
+        android:background="#CCCCCC" >
+    </FrameLayout>
+    
+    <!-- Borders -->
+
+    <RelativeLayout
+        android:id="@+id/A1BL"
+        android:layout_width="2dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="0dip"
+        android:layout_marginTop="0dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/A1BR"
+        android:layout_width="2dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="49dip"
+        android:layout_marginTop="0dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/A1BT"
+        android:layout_width="50dip"
+        android:layout_height="2dip"
+        android:layout_marginLeft="0dip"
+        android:layout_marginTop="0dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/A1BB"
+        android:layout_width="50dip"
+        android:layout_height="2dip"
+        android:layout_marginLeft="0dip"
+        android:layout_marginTop="49dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/A2BL"
+        android:layout_width="2dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="49dip"
+        android:layout_marginTop="0dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/A2BR"
+        android:layout_width="2dip"
+        android:layout_height="50dip"
+        android:layout_marginLeft="99dip"
+        android:layout_marginTop="0dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/A2BT"
+        android:layout_width="50dip"
+        android:layout_height="2dip"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="0dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/A2BB"
+        android:layout_width="50dip"
+        android:layout_height="2dip"
+        android:layout_marginLeft="50dip"
+        android:layout_marginTop="49dip"
+        android:background="#666666" >
+    </RelativeLayout>
+
+</FrameLayout>
