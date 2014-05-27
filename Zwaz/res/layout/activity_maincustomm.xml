@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:customRelativeLayout="http://schemas.android.com/apk/res/com.example.filet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="@color/flat_action_bar"
+    >
+
+    <com.example.filet.CustomRelativeLayout
+         layout="@layout/custom_relative_layout"
+        android:background="@color/blue"
+       android:layout_width="50dp"
+       android:layout_height="50dp"
+        android:id="@+id/crl"
+        android:layout_centerInParent="true"
+       
+        />
+
+</RelativeLayout>

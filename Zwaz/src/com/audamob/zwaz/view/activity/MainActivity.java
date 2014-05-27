@@ -1,10 +1,10 @@
 package com.audamob.zwaz.view.activity;
 
-import com.audamob.zwaz.R;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
+
+import com.audamob.zwaz.R;
 
 public class MainActivity extends Activity {
 
